@@ -1,6 +1,8 @@
 # budgetTracker
 Homework for MSU Web Development Bootcamp
 
+# Screenshot 
+https://github.com/emkaygru/budgetTracker/blob/master/public/assets/screenshot.jpg
 
 # Links
 GitHub Repository: https://github.com/emkaygru/budgetTracker
