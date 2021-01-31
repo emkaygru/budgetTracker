@@ -2,7 +2,7 @@
 Homework for MSU Web Development Bootcamp
 
 # Screenshot 
-https://github.com/emkaygru/budgetTracker/blob/main/assets/screenshot.jpg
+[Screenshot of Deployed](https://github.com/emkaygru/budgetTracker/blob/main/assets/screenshot.jpg)
 
 # Links
 GitHub Repository: https://github.com/emkaygru/budgetTracker
